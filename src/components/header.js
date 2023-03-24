@@ -6,7 +6,7 @@ export default function Header() {
             <a href="/" class="d-flex align-items-center text-dark text-decoration-none">
                 <img class="me-2" src={logo} width="38"
                     title="AI pomocník pro zákon č. 106/1999 Sb., o svobodném přístupu k informacím" />
-                <span class="fs-4">InfoBridge</span>
+                <span class="fs-4">InfoCase</span>
             </a>
         </header>
     );

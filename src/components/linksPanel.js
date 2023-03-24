@@ -20,12 +20,12 @@ export default function LinksPanel() {
                 <h2>Nápověda</h2>
                 <p>Zde naleznete články o zákonu č. 106/1999 Sb., a o tom, jak používat tuto aplikaci..</p>
                 <ul class="icon-list ps-0">
-                    <li class="d-flex align-items-start mb-1"><a href="#">InfoBridge - Rychlý start </a></li>
+                    <li class="d-flex align-items-start mb-1"><a href="#">InfoCase - Rychlý start </a></li>
                     <li class="d-flex align-items-start mb-1"><a href="#">Nejsou data posílána na cizí server?</a>
                     </li>
                     <li class="d-flex align-items-start mb-1"><a href="#">Náležitosti rozhodnutí o odmítnutí</a>
                     </li>
-                    <li class="d-flex align-items-start mb-1"><a href="#">Proč používat InfoBridge?</a></li>
+                    <li class="d-flex align-items-start mb-1"><a href="#">Proč používat InfoCase?</a></li>
                 </ul>
             </div>
         </div>
