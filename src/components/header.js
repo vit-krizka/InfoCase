@@ -1,4 +1,4 @@
-import logo from "../assets/icon.svg"
+import logo from "../logo.svg"
 
 export default function Header() {
     return (
@@ -11,4 +11,3 @@ export default function Header() {
         </header>
     );
 }
-

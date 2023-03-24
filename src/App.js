@@ -7,7 +7,6 @@ function App() {
   return (
     <div className="App">
       <div class="col-lg-8 mx-auto p-4 py-md-5">
-        {/* header */}
         <Header />
 
         <main>
